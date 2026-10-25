@@ -20,5 +20,38 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "한국영상대학교 본관": {
+      "style": "stone",
+      "wall": "#d6ccc3",
+      "glass": "#3e5a78",
+      "frame": "#b0a6a0"
+    },
+    "한국영상대학교 창의관": {
+      "style": "glass",
+      "wall": "#d5d0c4",
+      "glass": "#4a6a6a",
+      "frame": "#6f8fb0"
+    },
+    "한국영상대학교 영상관": {
+      "style": "brick",
+      "wall": "#9a5a48",
+      "glass": "#3c4c50",
+      "frame": "#ece8e0"
+    },
+    "한국영상대학교 진리관": {
+      "style": "brick",
+      "wall": "#8a5242",
+      "glass": "#4a505a",
+      "frame": "#d8d6d2"
+    },
+    "한국영상대학교 웅진관": {
+      "style": "brick",
+      "wall": "#93584a",
+      "glass": "#3a4448",
+      "frame": "#f0eee8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
