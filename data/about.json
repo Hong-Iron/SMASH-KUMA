@@ -1,0 +1,34 @@
+{
+ "region": "세종 장군면",
+ "nameEn": "Korea University of Media Arts",
+ "added": "2026-10-24T16:30",
+ "rank": 198,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KONGJU",
+   "campus": "국립공주대학교 신관캠퍼스",
+   "km": 6.2
+  },
+  {
+   "code": "GJUE",
+   "campus": "공주교육대학교",
+   "km": 8.4
+  },
+  {
+   "code": "KBTUS",
+   "campus": "한국침례신학대학교",
+   "km": 13.4
+  },
+  {
+   "code": "HANBAT",
+   "campus": "국립한밭대학교",
+   "km": 14.9
+  },
+  {
+   "code": "DDU",
+   "campus": "대덕대학교",
+   "km": 16.0
+  }
+ ]
+}
